@@ -3,7 +3,9 @@
     gap: 20px;
     padding: 1rem;
   }
-
+  .column-reverse {
+    flex-direction: column-reverse;
+  }
   .header-content p {
     font-size: 16px;
   }
@@ -81,5 +83,8 @@
   }
   .footer-content form input {
     text-align: center;
+  }
+  .btn {
+    font-size: 16px;
   }
 }
