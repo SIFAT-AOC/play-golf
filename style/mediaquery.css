@@ -1,0 +1,84 @@
+@media (max-width: 768px) {
+  .header-content {
+    gap: 20px;
+    padding: 1rem;
+  }
+
+  .header-content p {
+    font-size: 16px;
+  }
+  .header-content h1 {
+    font-size: 30px;
+  }
+  .apps-img li a img {
+    max-width: 150px;
+  }
+  .down-curved {
+    bottom: 0%;
+    padding: 1rem;
+  }
+  .golf-feature-sec {
+    padding-top: 2rem;
+  }
+  .product-feature h2 {
+    font-size: 30px;
+    margin: 0px 0 5px 0;
+    text-align: center;
+  }
+  .product-feature {
+    padding: 1rem;
+  }
+
+  .product-feature p {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 25px;
+  }
+
+  .col-1-2 {
+    flex-basis: 99%;
+    max-width: 99%;
+  }
+
+  .feature-box .feature-content {
+    align-items: center;
+  }
+  .feature-box .feature-content p {
+    text-align: center;
+  }
+
+  .f-w-f-s-1 {
+    padding: 1rem;
+  }
+  .footer-content {
+    height: 0;
+    max-width: 100%;
+    margin: 0;
+    padding: 13rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .footer-content p {
+    font-size: 17px;
+    text-align: center;
+    line-height: 21px;
+  }
+  .footer-content h3 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .footer-content form {
+    background-color: #fff;
+    padding: 9px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+  .footer-content form input {
+    text-align: center;
+  }
+}
