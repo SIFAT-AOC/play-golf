@@ -91,4 +91,11 @@
     font-size: 30px;
     line-height: 36px;
   }
+  .copyright p {
+    background-color: #176b3a;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    font-size: 12px;
+  }
 }
