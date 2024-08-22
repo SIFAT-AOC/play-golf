@@ -29,7 +29,7 @@ header {
 ul {
   list-style: none;
   gap: 18px;
-  margin: 22px auto 0 auto;
+  margin: 22px 0 auto;
 }
 
 .down-curved {
@@ -40,7 +40,7 @@ ul {
   color: #fff;
   gap: 15px;
   position: absolute;
-  bottom: 2%;
+  bottom: 0%;
 }
 .down-curved p {
   font-size: 18px;
@@ -80,6 +80,9 @@ ul {
 .feature-box {
 }
 .feature-box .feature-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .feature-box .feature-media img {
 }
@@ -180,6 +183,9 @@ footer {
 }
 .feature-box .feature-media img {
   width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .footer-content form input {
   padding: 11px;
