@@ -178,6 +178,9 @@ footer {
   padding: 7px;
   border-radius: 5px;
 }
+.feature-box .feature-media img {
+  width: 80%;
+}
 .footer-content form input {
   padding: 11px;
   font-size: 20px;
